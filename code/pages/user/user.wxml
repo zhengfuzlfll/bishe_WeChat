@@ -1,3 +1,26 @@
 <!--pages/user/user.wxml-->
 <!-- <text>pages/user/user.wxml</text> -->
-<text>个人中心</text>
+<!-- <text>个人中心</text> -->
+<view class="user">
+  <view class="touxiang">
+    <image  class="img" src="../../resources/test.jpg"></image>
+    <text>昵称</text>
+  </view>
+  <view class="list">
+    <view>
+      <image class="img2" src="../../resources/user/user.png"></image>
+      <text>账户信息</text>
+      <image class="img3" src="../../resources/user/arrow.png"></image>
+    </view>
+    <view>
+      <image class="img2" src="../../resources/user/order.png"></image>
+      <text>我的订单</text>
+      <image class="img3" src="../../resources/user/arrow.png"></image>
+    </view>
+    <view>
+      <image class="img2" src="../../resources/user/message.png"></image>
+      <text>系统通知</text>
+      <image class="img3" src="../../resources/user/arrow.png"></image>
+    </view> 
+  </view>
+</view>
