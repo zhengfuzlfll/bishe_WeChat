@@ -8508,7 +8508,7 @@ module.exports = {"_from":"@dcloudio/uni-stat@alpha","_id":"@dcloudio/uni-stat@2
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/home/home": { "navigationBarTitleText": "首页", "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/one/one": { "navigationBarTitleText": "一食堂", "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/two/two": { "navigationBarTitleText": "二食堂", "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/chat/chat": { "navigationBarTitleText": "社区", "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/user/user": { "navigationBarTitleText": "我的", "usingComponents": {}, "usingAutoImportComponents": {} } }, "globalStyle": { "navigationBarTextStyle": "white", "navigationBarTitleText": "民师院食堂", "navigationBarBackgroundColor": "#f66", "backgroundColor": "#efefef" } };exports.default = _default;
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/home/home": { "navigationBarTitleText": "首页" }, "pages/one/one": { "navigationBarTitleText": "一食堂" }, "pages/two/two": { "navigationBarTitleText": "二食堂" }, "pages/chat/chat": { "navigationBarTitleText": "社区" }, "pages/user/user": { "navigationBarTitleText": "我的" } }, "globalStyle": { "navigationBarTextStyle": "white", "navigationBarTitleText": "民师院食堂", "navigationBarBackgroundColor": "#f66", "backgroundColor": "#efefef" } };exports.default = _default;
 
 /***/ }),
 /* 8 */
